@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Site title and description
-export const SITE_LANG = "en";
+export const SITE_LANG = "zh-cn";
 export const SITE_TAB = "__dragon_的小站";
 export const SITE_TITLE = "__dragon_的小站";
 export const SITE_DESCRIPTION = "__dragon_的小站";
@@ -77,7 +77,7 @@ export const menuItems = [
   {
     id: "contact",
     text: "Contact",
-    href: "mailto:contact.evesunmaple@outlook.com", // Contact email
+    href: "mailto:contact.ybz721@126.com", // Contact email
     target: "_blank", // Open in a new tab
     svg: "contact",
   },
@@ -92,13 +92,13 @@ export const socialIcons = [
     svg: "support",
   },
   {
-    href: "https://github.com/EveSunMaple",
+    href: "https://github.com/ybz2010",
     ariaLabel: "Github",
     title: "Github",
     svg: "github",
   },
   {
-    href: "https://space.bilibili.com/438392347",
+    href: "https://space.bilibili.com/3493106422908956",
     ariaLabel: "BiliBili",
     title: "BiliBili",
     svg: "bilibili",
