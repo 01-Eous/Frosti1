@@ -3,13 +3,13 @@
 
 // Site title and description
 export const SITE_LANG = "zh-cn";
-export const SITE_TAB = "__dragon_的小站";
-export const SITE_TITLE = "__dragon_的小站";
-export const SITE_DESCRIPTION = "__dragon_的小站";
+export const SITE_TAB = "Eous的小站";
+export const SITE_TITLE = "Eous的小站";
+export const SITE_DESCRIPTION = "Eous的小站";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "__dragon_";
+export const USER_NAME = "Eous";
 export const USER_SITE = "https://nahida.cfd"
 export const USER_AVATAR = "/profile.webp";
 
