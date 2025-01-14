@@ -3,9 +3,9 @@
 
 // Site title and description
 export const SITE_LANG = "zh-cn";
-export const SITE_TAB = "Eous的小站";
-export const SITE_TITLE = "Eous的小站";
-export const SITE_DESCRIPTION = "Eous的小站";
+export const SITE_TAB = "伊埃斯的小站";
+export const SITE_TITLE = "伊埃斯的小站";
+export const SITE_DESCRIPTION = "伊埃斯的小站";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
