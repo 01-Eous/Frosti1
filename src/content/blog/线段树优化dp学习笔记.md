@@ -2,7 +2,7 @@
 title: "线段树优化dp学习笔记"
 description: "如题"
 pubDate: "Nov 22 2024"
-image: "/head_pic/Nahida_1.webp"
+image: "/head_pic/Nahida_3.webp"
 categories:
   - tech
 tags:
