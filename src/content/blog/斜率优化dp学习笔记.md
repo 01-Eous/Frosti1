@@ -2,7 +2,6 @@
 title: "斜率优化dp学习笔记"
 description: "如题"
 pubDate: "Jan 10 2025"
-image: "/head_pic/Nahida_3.webp"
 categories:
   - tech
 tags:

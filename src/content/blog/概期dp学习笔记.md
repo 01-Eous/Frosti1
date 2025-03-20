@@ -2,7 +2,6 @@
 title: "概率与期望dp学习笔记"
 description: "如题"
 pubDate: "Mar 13 2025"
-image: "/head_pic/Nahida_2.webp"
 categories:
   - tech
 tags:
