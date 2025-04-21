@@ -67,6 +67,12 @@
   "pnpm": {
     "overrides": {
       "@iconify/tools": "^4.0.5"
-    }
+    },
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "sharp",
+      "swup"
+    ]
   }
 }
