@@ -85,12 +85,12 @@ export const menuItems = [
 
 // Social media and contact icons
 export const socialIcons = [
-  {
-    href: "https://afdian.net/a/saroprock",
-    ariaLabel: "Support my work",
-    title: "Support my work",
-    svg: "support",
-  },
+  // {
+  //   href: "https://afdian.net/a/saroprock",
+  //   ariaLabel: "Support my work",
+  //   title: "Support my work",
+  //   svg: "support",
+  // },
   {
     href: "https://github.com/ybz2010",
     ariaLabel: "Github",
@@ -103,10 +103,10 @@ export const socialIcons = [
     title: "BiliBili",
     svg: "bilibili",
   },
-  {
-    href: "/rss.xml",
-    ariaLabel: "RSS Feed",
-    title: "RSS Feed",
-    svg: "rss",
-  },
+  // {
+  //   href: "/rss.xml",
+  //   ariaLabel: "RSS Feed",
+  //   title: "RSS Feed",
+  //   svg: "rss",
+  // },
 ];
